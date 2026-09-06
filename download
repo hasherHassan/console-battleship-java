@@ -1,0 +1,5 @@
+out/
+*.class
+acm.jar
+.idea/
+.vscode/
